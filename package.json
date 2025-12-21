@@ -22,7 +22,7 @@
     "@helium/address": "^4.8.1",
     "@helium/data-credits-sdk": "^0.6.31",
     "@helium/fanout-sdk": "^0.6.31",
-    "@helium/helium-react-hooks": "^0.6.31",
+    "@helium/helium-react-hooks": "^0.11.6",
     "@helium/idls": "^0.6.31",
     "@helium/spl-utils": "^0.6.31",
     "@mdx-js/react": "^3.0.0",
