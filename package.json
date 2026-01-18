@@ -41,7 +41,7 @@
     "mdx-embed": "^1.1.2",
     "prism-react-renderer": "^2.3.1",
     "process": "^0.11.10",
-    "react": "^19.0.0",
+    "react": "^19.2.3",
     "react-async-hook": "^4.0.0",
     "react-dom": "^19.0.0",
     "react-icons": "^5.4.0",
