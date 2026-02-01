@@ -24,7 +24,7 @@
     "@helium/fanout-sdk": "^0.6.31",
     "@helium/helium-react-hooks": "^0.6.31",
     "@helium/idls": "^0.6.31",
-    "@helium/spl-utils": "^0.6.31",
+    "@helium/spl-utils": "^0.11.7",
     "@mdx-js/react": "^3.0.0",
     "@metaplex-foundation/mpl-token-metadata": "^2.8.4",
     "@pythnetwork/price-service-client": "^1.9.0",
